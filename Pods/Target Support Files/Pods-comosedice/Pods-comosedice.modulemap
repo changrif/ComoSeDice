@@ -1,0 +1,6 @@
+framework module Pods_comosedice {
+  umbrella header "Pods-comosedice-umbrella.h"
+
+  export *
+  module * { export * }
+}

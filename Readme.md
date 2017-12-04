@@ -1,5 +1,5 @@
 # Lingo
-Lingo aims to educate lingual learners by immersing them in new languages through the objects right in front of them.
+Lingo aims to educate lingual learners by immersing them in new languages through the objects right in front of them. Lingo was made during the 24-hour HackDuke 2017. Here's the link to the devpost: https://devpost.com/software/lingo-wnr4yz
 
 *Members:* Chandler Griffin, Gianne Flores
 

@@ -7,66 +7,66 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0F74DE65FAC1D749B96F50129A0725A3 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 092C124E24793E864CDCFFF2EE5ADE28 /* SystemConfiguration.framework */; };
-		24BD4F56A1322D1E9AA2222A691C0800 /* Pods-comosedice-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D3393C4FD1CDE534EFDAF686214FA1F4 /* Pods-comosedice-dummy.m */; };
-		3BA77DAA57442A87265D9A3968B52E8D /* Pods-comosedice-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 88C482B42D0106DF91F52F3CE2257AA1 /* Pods-comosedice-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4ACE0A37CC8D527123D3DB6E69E11E8D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47AA9769BAF0011C11306AF9A75742D8 /* Foundation.framework */; };
-		6769A63EA129001BF8F478F6D76DEFB1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47AA9769BAF0011C11306AF9A75742D8 /* Foundation.framework */; };
-		A1A913D42C83C348A4D03DE2145F08D7 /* ROGoogleTranslate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB4B288660FE5FB78D0A87C51C3C829 /* ROGoogleTranslate.swift */; };
-		E67996A4EE8B56DD6871646B033693DE /* ROGoogleTranslate-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 60AAE76D3D6BF3F9C676DCECA5B3BCCE /* ROGoogleTranslate-dummy.m */; };
-		EEB2EAE52BB4F0DFAE59A3B6B585EE2D /* ROGoogleTranslate-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 444C4C66AD33EAF6198EA5C3BA0CBA2A /* ROGoogleTranslate-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		04C5B952FD78105B4D0E40224C0809F6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47AA9769BAF0011C11306AF9A75742D8 /* Foundation.framework */; };
+		29E32ACAB3A805557A5BE224DF4BB1F6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47AA9769BAF0011C11306AF9A75742D8 /* Foundation.framework */; };
+		547B91D68D46C36B909B396FBA515400 /* ROGoogleTranslate-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 444C4C66AD33EAF6198EA5C3BA0CBA2A /* ROGoogleTranslate-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		68EFF81ECDD51FC92B1CA26DD1683179 /* ROGoogleTranslate-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 60AAE76D3D6BF3F9C676DCECA5B3BCCE /* ROGoogleTranslate-dummy.m */; };
+		A0BFC778FD3554DB7395595C53D00449 /* Pods-Lingo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DB782BFF4AA7AEC044C9C645B6C20FA5 /* Pods-Lingo-dummy.m */; };
+		B429AD22972A65A7360FB8F461C18456 /* Pods-Lingo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A1E35A718D1E0B726C28EECABC617AC9 /* Pods-Lingo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BFED1611884763D22E6086D589A8AE04 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 092C124E24793E864CDCFFF2EE5ADE28 /* SystemConfiguration.framework */; };
+		E930F26A2BFF59634A463EF1A0D81C90 /* ROGoogleTranslate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB4B288660FE5FB78D0A87C51C3C829 /* ROGoogleTranslate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2802696553D36BAD4038EF7F76A4D2D0 /* PBXContainerItemProxy */ = {
+		D84621A3DF703E1F9BB2EDA5B81FBBF1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BCCC5087DC4F199D9132B0827CBB6FBF;
+			remoteGlobalIDString = B351718BA009404A9FD12020F97A70BA;
 			remoteInfo = ROGoogleTranslate;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		092C124E24793E864CDCFFF2EE5ADE28 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
-		0987A020943EFCEE9E1BDA633BD75829 /* Pods-comosedice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-comosedice.debug.xcconfig"; sourceTree = "<group>"; };
-		1BF7D1824354950339E628B72AB9649A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1068081CBAB588A88FC5961F5DB46954 /* Pods-Lingo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Lingo.release.xcconfig"; sourceTree = "<group>"; };
 		1FB4B288660FE5FB78D0A87C51C3C829 /* ROGoogleTranslate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ROGoogleTranslate.swift; path = Source/ROGoogleTranslate.swift; sourceTree = "<group>"; };
-		27CA7FE09329E984C7848B536602488E /* Pods-comosedice-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-comosedice-resources.sh"; sourceTree = "<group>"; };
-		3D4AB5E3765C852C29A9096F2CD9BD68 /* Pods-comosedice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-comosedice.release.xcconfig"; sourceTree = "<group>"; };
+		226B071D08749F3C4040DC7E49C1858B /* Pods-Lingo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Lingo-frameworks.sh"; sourceTree = "<group>"; };
+		2C3204F961C144408A9C9A96121425FE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		444C4C66AD33EAF6198EA5C3BA0CBA2A /* ROGoogleTranslate-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ROGoogleTranslate-umbrella.h"; sourceTree = "<group>"; };
 		47AA9769BAF0011C11306AF9A75742D8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		60AAE76D3D6BF3F9C676DCECA5B3BCCE /* ROGoogleTranslate-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ROGoogleTranslate-dummy.m"; sourceTree = "<group>"; };
-		88C482B42D0106DF91F52F3CE2257AA1 /* Pods-comosedice-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-comosedice-umbrella.h"; sourceTree = "<group>"; };
+		809D89A05310F44508AA9F0EB983683A /* Pods-Lingo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-Lingo.modulemap"; sourceTree = "<group>"; };
+		8649DAEE2116AD0254CC562B9BCCEC3C /* Pods_Lingo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Lingo.framework; path = "Pods-Lingo.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A586ACD6E3A935E9A95A9330BB2FAA2 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8F45C5877B7B5DC5F43F4499A070DB68 /* Pods-comosedice-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-comosedice-acknowledgements.markdown"; sourceTree = "<group>"; };
+		8BCEC32B6FDEB6D64696D0B810D6E6F2 /* Pods-Lingo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Lingo.debug.xcconfig"; sourceTree = "<group>"; };
 		8FA90D5A8E9292789444FA96263ED764 /* ROGoogleTranslate-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ROGoogleTranslate-prefix.pch"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		B0FF1A603EA4EBFB2084DD069F4A85C5 /* Pods-comosedice.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-comosedice.modulemap"; sourceTree = "<group>"; };
-		D3393C4FD1CDE534EFDAF686214FA1F4 /* Pods-comosedice-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-comosedice-dummy.m"; sourceTree = "<group>"; };
+		A1E35A718D1E0B726C28EECABC617AC9 /* Pods-Lingo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Lingo-umbrella.h"; sourceTree = "<group>"; };
 		D50595748F6F789F28E18A1F65ED8033 /* ROGoogleTranslate.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ROGoogleTranslate.xcconfig; sourceTree = "<group>"; };
-		D6383D3C6FDBDEACAB9C9EC8EDBC50FB /* Pods-comosedice-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-comosedice-frameworks.sh"; sourceTree = "<group>"; };
-		DF67240B98A6ECFFA3092FD929D45E48 /* Pods-comosedice-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-comosedice-acknowledgements.plist"; sourceTree = "<group>"; };
+		DB28539F1F39905C4239BFA78FD0EA84 /* Pods-Lingo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Lingo-resources.sh"; sourceTree = "<group>"; };
+		DB782BFF4AA7AEC044C9C645B6C20FA5 /* Pods-Lingo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Lingo-dummy.m"; sourceTree = "<group>"; };
 		E1ED2B173991E04D3F842A80627A6D71 /* ROGoogleTranslate.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = ROGoogleTranslate.modulemap; sourceTree = "<group>"; };
-		E1FB00B2F490435C450FAE82CDBE5309 /* ROGoogleTranslate.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ROGoogleTranslate.framework; path = ROGoogleTranslate.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EC48C99558BE48DC696B1CF0CA8A4027 /* Pods_comosedice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_comosedice.framework; path = "Pods-comosedice.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E5C6D18E5848F3821D46E5CB3E32AE2F /* Pods-Lingo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Lingo-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E9498EC8A0F2A9C6678D7CAF3A39B06D /* Pods-Lingo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Lingo-acknowledgements.plist"; sourceTree = "<group>"; };
+		F30D37249C21D421B2B0D4B4041244E0 /* ROGoogleTranslate.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ROGoogleTranslate.framework; path = ROGoogleTranslate.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		AD2E3F34DCD258A8A1A2669057EBB67F /* Frameworks */ = {
+		60DC28A3C54F2C9B3644CFF3DFE54030 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6769A63EA129001BF8F478F6D76DEFB1 /* Foundation.framework in Frameworks */,
-				0F74DE65FAC1D749B96F50129A0725A3 /* SystemConfiguration.framework in Frameworks */,
+				29E32ACAB3A805557A5BE224DF4BB1F6 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C0755A0678654CB2187E720A0714DFEA /* Frameworks */ = {
+		BB950ED8D36F41AA1CDCF74BAF8F16A8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4ACE0A37CC8D527123D3DB6E69E11E8D /* Foundation.framework in Frameworks */,
+				04C5B952FD78105B4D0E40224C0809F6 /* Foundation.framework in Frameworks */,
+				BFED1611884763D22E6086D589A8AE04 /* SystemConfiguration.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -91,24 +91,6 @@
 			path = ROGoogleTranslate;
 			sourceTree = "<group>";
 		};
-		36C870DCB874F89B17B77B6DFA79EFC5 /* Pods-comosedice */ = {
-			isa = PBXGroup;
-			children = (
-				1BF7D1824354950339E628B72AB9649A /* Info.plist */,
-				B0FF1A603EA4EBFB2084DD069F4A85C5 /* Pods-comosedice.modulemap */,
-				8F45C5877B7B5DC5F43F4499A070DB68 /* Pods-comosedice-acknowledgements.markdown */,
-				DF67240B98A6ECFFA3092FD929D45E48 /* Pods-comosedice-acknowledgements.plist */,
-				D3393C4FD1CDE534EFDAF686214FA1F4 /* Pods-comosedice-dummy.m */,
-				D6383D3C6FDBDEACAB9C9EC8EDBC50FB /* Pods-comosedice-frameworks.sh */,
-				27CA7FE09329E984C7848B536602488E /* Pods-comosedice-resources.sh */,
-				88C482B42D0106DF91F52F3CE2257AA1 /* Pods-comosedice-umbrella.h */,
-				0987A020943EFCEE9E1BDA633BD75829 /* Pods-comosedice.debug.xcconfig */,
-				3D4AB5E3765C852C29A9096F2CD9BD68 /* Pods-comosedice.release.xcconfig */,
-			);
-			name = "Pods-comosedice";
-			path = "Target Support Files/Pods-comosedice";
-			sourceTree = "<group>";
-		};
 		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -117,15 +99,42 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		568207E8C8464C8DE853CE221D546679 /* Pods-Lingo */ = {
+			isa = PBXGroup;
+			children = (
+				2C3204F961C144408A9C9A96121425FE /* Info.plist */,
+				809D89A05310F44508AA9F0EB983683A /* Pods-Lingo.modulemap */,
+				E5C6D18E5848F3821D46E5CB3E32AE2F /* Pods-Lingo-acknowledgements.markdown */,
+				E9498EC8A0F2A9C6678D7CAF3A39B06D /* Pods-Lingo-acknowledgements.plist */,
+				DB782BFF4AA7AEC044C9C645B6C20FA5 /* Pods-Lingo-dummy.m */,
+				226B071D08749F3C4040DC7E49C1858B /* Pods-Lingo-frameworks.sh */,
+				DB28539F1F39905C4239BFA78FD0EA84 /* Pods-Lingo-resources.sh */,
+				A1E35A718D1E0B726C28EECABC617AC9 /* Pods-Lingo-umbrella.h */,
+				8BCEC32B6FDEB6D64696D0B810D6E6F2 /* Pods-Lingo.debug.xcconfig */,
+				1068081CBAB588A88FC5961F5DB46954 /* Pods-Lingo.release.xcconfig */,
+			);
+			name = "Pods-Lingo";
+			path = "Target Support Files/Pods-Lingo";
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
 				2143DD30FBADF103FB9A6B25F05CBAC1 /* Pods */,
-				B751FCDA958847E21DB483C1417DDFC0 /* Products */,
-				B9CAAC95AC25A052D3393A8A0870944B /* Targets Support Files */,
+				974111539328E0B5F7DE0713336C455D /* Products */,
+				C991A18B290295B45AB5C8AF86EDC122 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		974111539328E0B5F7DE0713336C455D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8649DAEE2116AD0254CC562B9BCCEC3C /* Pods_Lingo.framework */,
+				F30D37249C21D421B2B0D4B4041244E0 /* ROGoogleTranslate.framework */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 		B7141F310DB616A7B8460CB145EFEC3A /* iOS */ = {
@@ -137,19 +146,10 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		B751FCDA958847E21DB483C1417DDFC0 /* Products */ = {
+		C991A18B290295B45AB5C8AF86EDC122 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				EC48C99558BE48DC696B1CF0CA8A4027 /* Pods_comosedice.framework */,
-				E1FB00B2F490435C450FAE82CDBE5309 /* ROGoogleTranslate.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		B9CAAC95AC25A052D3393A8A0870944B /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				36C870DCB874F89B17B77B6DFA79EFC5 /* Pods-comosedice */,
+				568207E8C8464C8DE853CE221D546679 /* Pods-Lingo */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
@@ -171,50 +171,50 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		C5E1FA9E5CD54236EDEA4E74A2620B0C /* Headers */ = {
+		57B8D4CFA4F6DFF3FA13AE315F5F13A0 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3BA77DAA57442A87265D9A3968B52E8D /* Pods-comosedice-umbrella.h in Headers */,
+				B429AD22972A65A7360FB8F461C18456 /* Pods-Lingo-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E10B1EFB1C70A10CADF322B7001A8A9C /* Headers */ = {
+		9051D4ED08E2AE99D389B1413D690B98 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EEB2EAE52BB4F0DFAE59A3B6B585EE2D /* ROGoogleTranslate-umbrella.h in Headers */,
+				547B91D68D46C36B909B396FBA515400 /* ROGoogleTranslate-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		35562900BAFC78A5FE5F8479FA00D8C3 /* Pods-comosedice */ = {
+		4CE61A787D13AFF883D3FA2C08CE255B /* Pods-Lingo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9F6F64A04F6464BCD3D3A5CC4A6611C0 /* Build configuration list for PBXNativeTarget "Pods-comosedice" */;
+			buildConfigurationList = 0A66ED8C47BCFA78304A1F36A5F56406 /* Build configuration list for PBXNativeTarget "Pods-Lingo" */;
 			buildPhases = (
-				1F979EABE9713F5B77E3C3E7D0719B31 /* Sources */,
-				C0755A0678654CB2187E720A0714DFEA /* Frameworks */,
-				C5E1FA9E5CD54236EDEA4E74A2620B0C /* Headers */,
+				C30111183CEB72F97C57756D4338C997 /* Sources */,
+				60DC28A3C54F2C9B3644CFF3DFE54030 /* Frameworks */,
+				57B8D4CFA4F6DFF3FA13AE315F5F13A0 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				94207E402D297218C329ED215333542E /* PBXTargetDependency */,
+				EF3A92A846B2BC13403203CAE375F89E /* PBXTargetDependency */,
 			);
-			name = "Pods-comosedice";
-			productName = "Pods-comosedice";
-			productReference = EC48C99558BE48DC696B1CF0CA8A4027 /* Pods_comosedice.framework */;
+			name = "Pods-Lingo";
+			productName = "Pods-Lingo";
+			productReference = 8649DAEE2116AD0254CC562B9BCCEC3C /* Pods_Lingo.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		BCCC5087DC4F199D9132B0827CBB6FBF /* ROGoogleTranslate */ = {
+		B351718BA009404A9FD12020F97A70BA /* ROGoogleTranslate */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ACD3BCF0C4344FBCDA817DBCEF3A747E /* Build configuration list for PBXNativeTarget "ROGoogleTranslate" */;
+			buildConfigurationList = 441728CA9AEEA9BA30AAAB12B0CA65FB /* Build configuration list for PBXNativeTarget "ROGoogleTranslate" */;
 			buildPhases = (
-				12B37BCBCB68ECAC27407A06F7F6A398 /* Sources */,
-				AD2E3F34DCD258A8A1A2669057EBB67F /* Frameworks */,
-				E10B1EFB1C70A10CADF322B7001A8A9C /* Headers */,
+				6722216F83E2792DA7EFF1D2438B6E6A /* Sources */,
+				BB950ED8D36F41AA1CDCF74BAF8F16A8 /* Frameworks */,
+				9051D4ED08E2AE99D389B1413D690B98 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -222,7 +222,7 @@
 			);
 			name = ROGoogleTranslate;
 			productName = ROGoogleTranslate;
-			productReference = E1FB00B2F490435C450FAE82CDBE5309 /* ROGoogleTranslate.framework */;
+			productReference = F30D37249C21D421B2B0D4B4041244E0 /* ROGoogleTranslate.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -242,83 +242,47 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = B751FCDA958847E21DB483C1417DDFC0 /* Products */;
+			productRefGroup = 974111539328E0B5F7DE0713336C455D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				35562900BAFC78A5FE5F8479FA00D8C3 /* Pods-comosedice */,
-				BCCC5087DC4F199D9132B0827CBB6FBF /* ROGoogleTranslate */,
+				4CE61A787D13AFF883D3FA2C08CE255B /* Pods-Lingo */,
+				B351718BA009404A9FD12020F97A70BA /* ROGoogleTranslate */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		12B37BCBCB68ECAC27407A06F7F6A398 /* Sources */ = {
+		6722216F83E2792DA7EFF1D2438B6E6A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E67996A4EE8B56DD6871646B033693DE /* ROGoogleTranslate-dummy.m in Sources */,
-				A1A913D42C83C348A4D03DE2145F08D7 /* ROGoogleTranslate.swift in Sources */,
+				68EFF81ECDD51FC92B1CA26DD1683179 /* ROGoogleTranslate-dummy.m in Sources */,
+				E930F26A2BFF59634A463EF1A0D81C90 /* ROGoogleTranslate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1F979EABE9713F5B77E3C3E7D0719B31 /* Sources */ = {
+		C30111183CEB72F97C57756D4338C997 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				24BD4F56A1322D1E9AA2222A691C0800 /* Pods-comosedice-dummy.m in Sources */,
+				A0BFC778FD3554DB7395595C53D00449 /* Pods-Lingo-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		94207E402D297218C329ED215333542E /* PBXTargetDependency */ = {
+		EF3A92A846B2BC13403203CAE375F89E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = ROGoogleTranslate;
-			target = BCCC5087DC4F199D9132B0827CBB6FBF /* ROGoogleTranslate */;
-			targetProxy = 2802696553D36BAD4038EF7F76A4D2D0 /* PBXContainerItemProxy */;
+			target = B351718BA009404A9FD12020F97A70BA /* ROGoogleTranslate */;
+			targetProxy = D84621A3DF703E1F9BB2EDA5B81FBBF1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		492F6C972C8A2FB0453311A991BC70D9 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0987A020943EFCEE9E1BDA633BD75829 /* Pods-comosedice.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-comosedice/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-comosedice/Pods-comosedice.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_comosedice;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		7C1DCCB1470B631424E0C1BCC884511B /* Debug */ = {
+		1BD38F5BFB536A1218B8BEE9E6B26A9E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D50595748F6F789F28E18A1F65ED8033 /* ROGoogleTranslate.xcconfig */;
 			buildSettings = {
@@ -351,9 +315,45 @@
 			};
 			name = Debug;
 		};
-		9242B84230FC33F58E7EAA5555CAB4CA /* Release */ = {
+		33C2D8F6721888F287EE17232568BBC9 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3D4AB5E3765C852C29A9096F2CD9BD68 /* Pods-comosedice.release.xcconfig */;
+			baseConfigurationReference = 8BCEC32B6FDEB6D64696D0B810D6E6F2 /* Pods-Lingo.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-Lingo/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Lingo/Pods-Lingo.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_Lingo;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		553D9D949F1E323F813FE35C826388A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D50595748F6F789F28E18A1F65ED8033 /* ROGoogleTranslate.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -366,20 +366,17 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-comosedice/Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/ROGoogleTranslate/ROGoogleTranslate-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ROGoogleTranslate/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-comosedice/Pods-comosedice.modulemap";
+				MODULEMAP_FILE = "Target Support Files/ROGoogleTranslate/ROGoogleTranslate.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_comosedice;
+				PRODUCT_NAME = ROGoogleTranslate;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -426,9 +423,9 @@
 			};
 			name = Release;
 		};
-		BE66C410F877A17FF10CF3BCC4F7E3F3 /* Release */ = {
+		C5409D10BD8A189D01721ADB0AE7C478 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D50595748F6F789F28E18A1F65ED8033 /* ROGoogleTranslate.xcconfig */;
+			baseConfigurationReference = 1068081CBAB588A88FC5961F5DB46954 /* Pods-Lingo.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -441,17 +438,20 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/ROGoogleTranslate/ROGoogleTranslate-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ROGoogleTranslate/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Lingo/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ROGoogleTranslate/ROGoogleTranslate.modulemap";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Lingo/Pods-Lingo.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = ROGoogleTranslate;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_Lingo;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -505,6 +505,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		0A66ED8C47BCFA78304A1F36A5F56406 /* Build configuration list for PBXNativeTarget "Pods-Lingo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				33C2D8F6721888F287EE17232568BBC9 /* Debug */,
+				C5409D10BD8A189D01721ADB0AE7C478 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -514,20 +523,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9F6F64A04F6464BCD3D3A5CC4A6611C0 /* Build configuration list for PBXNativeTarget "Pods-comosedice" */ = {
+		441728CA9AEEA9BA30AAAB12B0CA65FB /* Build configuration list for PBXNativeTarget "ROGoogleTranslate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				492F6C972C8A2FB0453311A991BC70D9 /* Debug */,
-				9242B84230FC33F58E7EAA5555CAB4CA /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		ACD3BCF0C4344FBCDA817DBCEF3A747E /* Build configuration list for PBXNativeTarget "ROGoogleTranslate" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				7C1DCCB1470B631424E0C1BCC884511B /* Debug */,
-				BE66C410F877A17FF10CF3BCC4F7E3F3 /* Release */,
+				1BD38F5BFB536A1218B8BEE9E6B26A9E /* Debug */,
+				553D9D949F1E323F813FE35C826388A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

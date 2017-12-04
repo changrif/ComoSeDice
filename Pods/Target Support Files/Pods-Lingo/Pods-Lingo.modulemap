@@ -1,0 +1,6 @@
+framework module Pods_Lingo {
+  umbrella header "Pods-Lingo-umbrella.h"
+
+  export *
+  module * { export * }
+}
